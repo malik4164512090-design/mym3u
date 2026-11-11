@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="City News" group-title="News",City News
-https://citynewsregional.akamaized.net/hls/live/20002916/Regional_Live_6/5.m3u8
+https://citynewsregional.akamaized.net/hls/live/20002916/Regional_Live_6/Video-3MBPS.m3u8
 #EXTINF:-1 tvg-id="Global" group-title="News",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-id="CBC News" tvg-logo="" group-title="News",CBC Toronto
