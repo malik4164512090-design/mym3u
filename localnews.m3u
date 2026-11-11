@@ -1,0 +1,116 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="City News" group-title="News",City News
+https://citynewsregional.akamaized.net/hls/live/1017963/Regional_Live_6/master.m3u8
+#EXTINF:-1 tvg-id="Global" group-title="News",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 tvg-id="CBC News" tvg-logo="" group-title="News",CBC Toronto
+https://amg00788-cbc-amg00788c6-lg-ca-3604.playouts.now.amagi.tv/playlist/amg00788-canadianbroadcastingcorporationcbc-cbctoronto-lgca/playlist.m3u8
+#EXTINF:-1 tvg-id="CTV News" group-title="News",CTV News 
+https://amg00089-bellmedia-amg00089c3-lg-ca-2995.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvnews-lgca/playlist.m3u8
+#EXTINF:-1 tvg-id="LiveNOW from FOX" group-title="News",LiveNOW from FOX
+https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
+#EXTINF:-1 tvg-id="CNN News" group-title="News",CNN News
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera English" group-title="News",Al Jazeera English
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera English 2" group-title="News",Al Jazeera English
+https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+#EXTINF:-1 tvg-id="DW English" group-title="News",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 tvg-id="France 24" group-title="News",France 24
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="NEWSMAX2" group-title="News",NEWSMAX2
+https://jmp2.uk/rok-28844a800a4e54909eec9695aa3762b2.m3u8
+#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" group-title="News",BBC News
+https://jmp2.uk/rok-6183f9f73a64394cf3c55690605af2a7.m3u8
+#EXTINF:-1 tvg-id="CBS News" tvg-name="CTV News" group-title="News",CBS News
+https://jmp2.uk/plu-6350fdd266e9ea0007bedec5.m3u8
+#EXTINF:-1 tvg-id="ABC News Live" group-title="News",ABC News Live
+https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
+#EXTINF:-1 tvg-id="NBC News NOW" group-title="News",NBC News NOW
+https://live-manifest.production-public.tubi.io/live/df3e4d3f-fb37-4cf0-8bdb-ec9035d41d3b/playlist.m3u8
+#EXTINF:-1 tvg-id="Euronews" group-title="News",Euronews
+https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
+#EXTINF:-1 tvg-id="TRT World" group-title="News",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="Vice News" group-title="News",Vice News
+https://vicetv-vicefast2-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CNN Headlines" group-title="News",CNN Headlines
+https://amg01918-cnnus-amg01918c1-vizio-us-1813.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnheadlines-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="USA Today" group-title="News",USA Today
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-vizious/playlist.m3u8
+#EXTINF:-1 tvg-id="CBC News" group-title="News",CBC News
+https://jmp2.uk/rok-8db0f9f4abf6542ba95f97a545f98513.m3u8
+#EXTINF:-1 tvg-id="CTV News" group-title="News",CTV News
+https://jmp2.uk/rok-52ed4fc0c2635136b6ea44e2dc4a8a00.m3u8
+#EXTINF:-1 tvg-id="123 CBC News" group-title="News",123 CBC News
+https://amg00788-cbc-amg00788c3-lg-ca-3607.playouts.now.amagi.tv/playlist/amg00788-canadianbroadcastingcorporationcbc-cbcnewsexplore-lgca/playlist.m3u8
+#EXTINF:-1 tvg-id="124 CTV News" group-title="News",124 CTV News
+https://amg00089-bellmedia-amg00089c3-lg-ca-2995.playouts.now.amagi.tv/playlist/amg00089-bellmediafast-ctvnews-lgca/playlist.m3u8
+#EXTINF:-1 tvg-id="125 Newsmax N1" group-title="News",125 Newsmax N1
+https://amg00217-newsmax-amg00217c2-lg-ca-4271.playouts.now.amagi.tv/playlist/amg00217-newsmaxmediafast-newsmaxn1-lgca/playlist.m3u8
+#EXTINF:-1 tvg-id="145 The Weather Network" group-title="News",145 The Weather Network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01442-pelmorexcorp-theweathernetwork-lgca/playlist.m3u8?
+#EXTINF:-1 tvg-id="151 CBC Toronto" group-title="News",151 CBC Toronto
+https://amg00788-cbc-amg00788c6-lg-ca-3604.playouts.now.amagi.tv/playlist/amg00788-canadianbroadcastingcorporationcbc-cbctoronto-lgca/playlist.m3u8
+#EXTINF:-1 tvg-id="Duniya" group-title="News",Duniya
+https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+#EXTINF:-1 tvg-id="GEO News" group-title="News",GEO News
+https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="GEO News" group-title="News",Willow Sports
+https://amg01269-amg01269c1-firetv-us-5377.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Bloomberg Originals" group-title="News",Bloomberg Originals
+https://live-manifest.production-public.tubi.io/live/2d0569a6-6f5c-4d03-b418-3853cf9edc25/playlist.m3u8
+#EXTINF:-1 tvg-id="Bloomberg TV+" group-title="News",Bloomberg TV+
+https://live-manifest.production-public.tubi.io/live/a5aabf5a-9615-4987-8163-18edfa1360c6/playlist.m3u8
+#EXTINF:-1 tvg-id="Yahoo! Finance" group-title="News",Yahoo! Finance
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/yahoofina-yahoofinance-vizio/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya" group-title="News",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="FOX NEWS" group-title="News",FOX NEWS
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+https://s13.usnlive.com/stream/foxnews.m3u8
+#EXTINF:-1 tvg-id="MSNBC" group-title="News",MSNBC
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+https://s4.usnlive.com/stream/msnbc.m3u8
+#EXTINF:-1 tvg-id="CNN" group-title="News",CNN
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+https://s4.usnlive.com/stream/cnn.m3u8
+#EXTINF:-1 tvg-id="OANN" group-title="News",OANN
+#EXTVLCOPT:http-referrer=https://usnewson.com/
+https://s6.usnlive.com/stream/oann.m3u8
+#EXTINF:-1 tvg-id="SCRIPPS NEWS" group-title="News",SCRIPPS NEWS
+#EXT-X-STREAM-INF:RESOLUTION=1920x1080
+https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
+#EXTINF:-1 tvg-id="CNN" tvg-logo="" group-title="News",CNN
+https://d3bp6dwmpbdajl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/c0f1fab6-91e9-4b42-9fb4-7846db310d13/0.m3u8
+#EXTINF:-1 tvg-id="foxNews" group-title="News",FoxNews
+https://amg00488-foxdigital-livenowbyfox-lgus-y0a81.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-livenowbyfox-lgus/cb5735176570678784cb3a61cef94282857b3dcb0e6c886470af4a9765d9775884b7e1b0af348c78149719b1670e7d505962cf18c07c1fc7c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da56852db80148b6f4adafb8c2360625f5c98435ee3b24aa2f6b55c168d3ea3ac1a4e922a58e68314c8c914ef86dd46cf45d57ff9429c95f0d88212e037a059886f5d9f943a581fbaa13bf5ea5cb8db9e684be41b4a683f252b270e9c3451a8485148f0bfeab260ed1acd885ff108e47298fa3ded048264b807afe842acefc9b7d5d9aac6b6394e09da828f84ef3421b469b1c783be5f28b3a4511022b8a7d816197f18d8eb6db0d75161299fb614237219cd9457929eb3ccdbbf9f459231c5fd30f9574c636c1e0b8a51a3d53895799d30909f427a1c6e5682a915dcde8f6166360fd7d40b804255e995dbca9f2f2bda6c1e6ded62f252112399673b32b67bb9d21744bd0b26c97531f25330c065f9bb27faee9bc60e29bad3c20dae3bb7fb5a9ca64cf92d0f5804b2e02510101f2a9ebd307f5b13aa66ecc1c5ec72492fdf8d8894a67437083e1b5776f9c1ef629483c5695056e25b346f791557b937940efb055a0b3ac60ed9cf5824d0e640ca57778e3ba295bc49aa0d2c817657b928e0d5750c/105/1280x720_2886400/index.m3u8
+#EXTINF:-1 tvg-id="6183f9f73a64394cf3c55690605af2a7" tvg-name="BBC News" group-title="News",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:-1 tvg-id="MSNBC" tvg-logo="" group-title="News",MSNBC News
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
+#EXTINF:-1 tvg-id="CNBC" tvg-logo="" group-title="News",CNBC
+https://stream.livenewsplay.com:9555/hls/cnbcsd/index.m3u8
+#EXTINF:-1 tvg-id="SkyNews" tvg-logo="" group-title="News",Sky News
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
+#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="" group-title="News",Bloomberg
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
+#EXTINF:-1 tvg-id="CBS" tvg-logo="" group-title="News",CBS
+https://dai.google.com/linear/hls/pa/event/Sid4xiTQTkCT1SLu6rjUSQ/stream/50c6e051-0b91-442d-b2d1-3d652ce81d09:MRN2/variant/fd3bc9281fe3be69ef75fdb9b60d78a4/bandwidth/5980000.m3u8
+#EXTINF:-1 tvg-id="Stream 1" group-title="News",itv stream1 mut001
+https://mut001.myturn1.top:8088/live/webcricfifa1/playlist.m3u8?vidictid=206182486600&id=124249&pk=68e46473bfa30e8bc2b8e2b17e8d503ca87b14c34279867709b5ad1f66bb56c22f4627cd99a82d4db2919f9e112230435128d27c9600d6322965c74003ad56af
+#EXTINF:-1 tvg-id="ITV" group-title="News",ITV stream 2 muc001
+https://muc001.myturn1.top:8088/live/webcricfifa1/playlist.m3u8?vidictid=206189471927&id=124249&pk=68e46473bfa30e8bc2b8e2b17e8d503ca87b14c34279867709b5ad1f66bb56c22f4627cd99a82d4db2919f9e112230435128d27c9600d6322965c74003ad56af
+#EXTINF:-1 tvg-id="Stream 3" group-title="News",itv stream 3 muc002
+https://muc002.myturn1.top:8088/live/webcricfifa1/playlist.m3u8?vidictid=206188409427&id=124249&pk=68e46473bfa30e8bc2b8e2b17e8d503ca87b14c34279867709b5ad1f66bb56c22f4627cd99a82d4db2919f9e112230435128d27c9600d6322965c74003ad56af
+#EXTINF:-1 tvg-id="being 4" group-title="News",BEiNG Sport 5
+https://tgs5.myturn1.top:8088/mobile/stream10_320p/playlist.m3u8?id=39&pk=68e46473bfa30e8bc2b8e2b17e8d503ca87b14c34279867709b5ad1f66bb56c22e097ee71230174cd310770476cbff19a7dd428ac4b876429ce499312d9f0d4b
+#EXTINF:-1 tvg-id="webcricfifa1" group-title="News",webcricfifa1
+https://plu001.myturn1.top:8088/live/webcricfifa1/playlist.m3u8?vidictid=206343562545&id=124249&pk=68e46473bfa30e8bc2b8e2b17e8d503ca87b14c34279867709b5ad1f66bb56c2e6463506d609fabd6d35aeb0e090678de17a9c872e56e05f24498680b8e91afe
+#EXTINF:-1 tvg-id="webcricfifa2" group-title="News",webcricfifa2
+https://plu002.myturn1.top:8088/live/webcricfifa2/playlist.m3u8?vidictid=206344428195&id=117658&pk=68e46473bfa30e8bc2b8e2b17e8d503ca87b14c34279867709b5ad1f66bb56c2e6463506d609fabd6d35aeb0e090678de17a9c872e56e05f24498680b8e91afe
+#EXTINF:-1 tvg-id="webcricfifa3" group-title="News",webcricfifa3
+https://muc002.myturn1.top:8088/live/webcricfifa1/playlist.m3u8?vidictid=206349193112&id=124249&pk=68e46473bfa30e8bc2b8e2b17e8d503ca87b14c34279867709b5ad1f66bb56c2e6463506d609fabd6d35aeb0e090678de17a9c872e56e05f24498680b8e91afe
+
